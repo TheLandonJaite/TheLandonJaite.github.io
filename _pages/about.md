@@ -10,16 +10,8 @@ redirect_from:
 
 ## About Me
 
-I am a student interested in cybersecurity, networking, and computer science. I enjoy learning how technology works and developing technical skills through hands-on projects.
-
-## Skills
-
-- Python
-- GitHub
-- Networking
-- Cybersecurity Fundamentals
-- HTML/CSS
+I am a student interested in construction, engineering, and computer science. I enjoy learning how technology works and developing technical skills.
 
 ## Career Goals
 
-My goal is to pursue a career in cybersecurity and continue building technical skills through projects, certifications, and real-world experience.
+My goal is to pursue a career in carpentry and continue building my technical skills for dumb, fun projects, and websites.
